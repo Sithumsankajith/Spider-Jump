@@ -1,7 +1,7 @@
 # Spider Jump
 
 Spider Jump is an endless jumping game inspired by Doodle Jump, where the player controls a spider to jump higher and higher on platforms. The game is built using HTML, CSS, and JavaScript.
-
+.
 ![Gameplay](gamess.png)
 
 ## How to Play
