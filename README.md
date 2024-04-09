@@ -11,7 +11,7 @@ Spider Jump is an endless jumping game inspired by Doodle Jump, where the player
 - Avoid falling off the screen.
 
 ## Demo
-.
+
 You can play the game [here](https://sithumsankajith.github.io/Spider-Jump/).
 
 ## Screenshots
